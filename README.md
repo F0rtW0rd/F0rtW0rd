@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @F0rtW0rd
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Python, JavaScript, Dart, c++, css, c
