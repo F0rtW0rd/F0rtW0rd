@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @F0rtW0rd
+- 👋 Hi, I’m Darty
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python, JavaScript, Dart, c++, css, c
+- 🌱 I’m currently learning Python, JavaScript, Dart, c++, css, java
